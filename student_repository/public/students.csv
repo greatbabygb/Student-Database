@@ -1,0 +1,1001 @@
+student_id,name,major,year
+S1000,Shelly Hodge,Engineering,Junior
+S1001,Micheal Garcia,Mathematics,Senior
+S1002,John Salazar,Engineering,Sophomore
+S1003,Laura Brown,Business,Senior
+S1004,Sean Phillips,Mathematics,Freshman
+S1005,Stephen Collins,Biology,Senior
+S1006,Louis Meyer,Business,Junior
+S1007,Richard Woodward,Biology,Senior
+S1008,Ashley Chen,Biology,Senior
+S1009,Jacqueline Acevedo,Mathematics,Sophomore
+S1010,Susan Harris,Engineering,Freshman
+S1011,Wendy Torres,Computer Science,Junior
+S1012,Jillian Dixon,Biology,Junior
+S1013,Nicole Wright,Engineering,Senior
+S1014,Desiree Perry,Business,Junior
+S1015,Aaron Ryan,Business,Junior
+S1016,Ryan Williamson,Engineering,Junior
+S1017,Alexander Cook,Computer Science,Sophomore
+S1018,Richard Ferguson,Engineering,Junior
+S1019,David Curtis,Business,Freshman
+S1020,Kevin Rios,Biology,Junior
+S1021,Johnathan Gonzales,Mathematics,Sophomore
+S1022,Peter Adams,Mathematics,Sophomore
+S1023,Kimberly Barnes,Mathematics,Junior
+S1024,John Cruz,Computer Science,Freshman
+S1025,Kathleen Moreno,Biology,Sophomore
+S1026,Patricia Robinson,Business,Sophomore
+S1027,Michele Ward,Mathematics,Sophomore
+S1028,Stephanie Barber,Biology,Sophomore
+S1029,Thomas Shea,Biology,Junior
+S1030,Mrs. Michelle Sweeney,Computer Science,Junior
+S1031,Robert Smith,Business,Junior
+S1032,Donna West,Engineering,Junior
+S1033,Michelle Ryan,Computer Science,Sophomore
+S1034,Cody Perez,Engineering,Freshman
+S1035,Jeremiah Boyd,Biology,Sophomore
+S1036,Matthew Clark,Engineering,Sophomore
+S1037,Kyle Rose,Mathematics,Junior
+S1038,Dylan Waters,Biology,Freshman
+S1039,Derek Wall,Engineering,Sophomore
+S1040,James Sutton,Business,Junior
+S1041,Daniel Smith,Mathematics,Junior
+S1042,Amanda Potts,Biology,Freshman
+S1043,Eric Harris,Engineering,Sophomore
+S1044,Courtney Padilla,Engineering,Senior
+S1045,Jessica Weeks,Business,Sophomore
+S1046,Natasha Figueroa,Mathematics,Senior
+S1047,Kirsten Young,Mathematics,Freshman
+S1048,Mary Patterson,Computer Science,Senior
+S1049,Erica Davis,Computer Science,Freshman
+S1050,Patricia Donaldson,Engineering,Junior
+S1051,Janice Burke,Business,Sophomore
+S1052,Rebecca Espinoza,Engineering,Senior
+S1053,Antonio Howard,Business,Freshman
+S1054,Lisa Jackson,Mathematics,Freshman
+S1055,Terri Ross,Biology,Junior
+S1056,Billy Smith,Computer Science,Senior
+S1057,Lori Adams,Biology,Junior
+S1058,Alexandra Lin,Computer Science,Freshman
+S1059,Patricia Buchanan,Engineering,Junior
+S1060,Veronica Guerrero,Business,Junior
+S1061,Ashley Watkins,Engineering,Senior
+S1062,Shelly Peterson,Computer Science,Junior
+S1063,Tyler Perez,Business,Senior
+S1064,Melissa Patel,Biology,Senior
+S1065,Stephen Henry,Engineering,Senior
+S1066,Holly Rodriguez,Mathematics,Freshman
+S1067,Michael Johnson,Engineering,Junior
+S1068,Daniel Smith,Computer Science,Junior
+S1069,Brooke Powell,Mathematics,Junior
+S1070,George Oconnor,Engineering,Freshman
+S1071,William Anderson,Business,Freshman
+S1072,Tiffany Cunningham,Engineering,Junior
+S1073,Sharon Farrell,Biology,Senior
+S1074,Amy Hopkins MD,Business,Sophomore
+S1075,Christopher Estes,Computer Science,Freshman
+S1076,Kristy Adams,Mathematics,Freshman
+S1077,Stephanie Lin,Engineering,Freshman
+S1078,Karen Hogan,Computer Science,Senior
+S1079,Caitlin Knight,Business,Sophomore
+S1080,Julie Guerrero,Biology,Freshman
+S1081,Jennifer Combs,Biology,Sophomore
+S1082,Christopher Cruz,Computer Science,Sophomore
+S1083,Jeffrey Valencia,Mathematics,Sophomore
+S1084,David Robinson,Business,Freshman
+S1085,Maria Williams,Engineering,Senior
+S1086,Kelly Vincent DDS,Mathematics,Senior
+S1087,John Kim,Biology,Senior
+S1088,Scott Webb,Business,Junior
+S1089,Michael Mora,Business,Junior
+S1090,Tiffany Price,Engineering,Freshman
+S1091,Stefanie Jones,Business,Junior
+S1092,James Davies,Business,Senior
+S1093,Larry Brewer,Biology,Sophomore
+S1094,Lisa Williams,Biology,Freshman
+S1095,Sherry Diaz,Business,Freshman
+S1096,Edward Lloyd,Biology,Freshman
+S1097,Dr. Helen Mccann,Engineering,Sophomore
+S1098,Teresa Anderson,Business,Junior
+S1099,Michael Cox,Computer Science,Junior
+S1100,Jonathan Williamson,Mathematics,Junior
+S1101,Victoria George,Mathematics,Freshman
+S1102,Sara Lopez,Mathematics,Freshman
+S1103,Brian Fisher,Computer Science,Junior
+S1104,Jeffrey Thompson,Engineering,Freshman
+S1105,Valerie Ray,Computer Science,Sophomore
+S1106,Elizabeth Hernandez,Mathematics,Freshman
+S1107,Amanda Smith,Computer Science,Freshman
+S1108,Dawn Rodgers,Business,Freshman
+S1109,Carol Shields,Business,Senior
+S1110,Benjamin Cooke,Mathematics,Senior
+S1111,Amber Edwards,Mathematics,Freshman
+S1112,Mrs. Victoria Kramer,Biology,Senior
+S1113,Anne Rosales,Business,Freshman
+S1114,Steven Rollins,Computer Science,Freshman
+S1115,Jennifer Stein,Engineering,Sophomore
+S1116,Vincent Smith,Mathematics,Senior
+S1117,Richard Day,Engineering,Sophomore
+S1118,Brian Rhodes,Biology,Senior
+S1119,Nancy Armstrong,Engineering,Freshman
+S1120,David Brandt,Computer Science,Senior
+S1121,Mark Lynch,Computer Science,Freshman
+S1122,Chelsea Patel,Mathematics,Sophomore
+S1123,Robert Combs,Engineering,Sophomore
+S1124,Jason Hernandez,Computer Science,Senior
+S1125,Miranda Johnson,Engineering,Senior
+S1126,Mark Pierce,Biology,Freshman
+S1127,Amanda Hicks,Engineering,Senior
+S1128,Charles Buchanan,Biology,Senior
+S1129,Stephanie Newman,Biology,Senior
+S1130,Stephen Larson,Biology,Freshman
+S1131,Donald Cunningham,Business,Junior
+S1132,Keith Hurley,Computer Science,Junior
+S1133,Chris Garcia,Mathematics,Junior
+S1134,Shannon Hall,Engineering,Senior
+S1135,Sarah Gregory,Biology,Junior
+S1136,Lisa Olson,Biology,Junior
+S1137,Philip Campbell,Business,Junior
+S1138,Sarah Robinson,Biology,Senior
+S1139,Edward Little,Business,Junior
+S1140,Tanya Lopez,Biology,Freshman
+S1141,Matthew Garner,Engineering,Junior
+S1142,Shelly Jenkins,Computer Science,Senior
+S1143,Kristen Lopez,Business,Senior
+S1144,Meredith Fry,Business,Junior
+S1145,Wayne Hampton,Computer Science,Freshman
+S1146,Jessica Davis,Business,Senior
+S1147,John Perez,Business,Freshman
+S1148,Daniel Bradford,Computer Science,Sophomore
+S1149,Courtney Gentry,Engineering,Senior
+S1150,Brian Nelson,Engineering,Sophomore
+S1151,Richard Prince,Engineering,Sophomore
+S1152,Terry Mooney,Business,Senior
+S1153,Jeffrey Jackson,Business,Sophomore
+S1154,Deborah Reed,Biology,Sophomore
+S1155,Steven Preston,Biology,Senior
+S1156,Jennifer Velazquez,Mathematics,Junior
+S1157,Kevin Young,Mathematics,Senior
+S1158,Mrs. Regina Smith DVM,Computer Science,Sophomore
+S1159,Brenda Stewart,Computer Science,Junior
+S1160,Victoria Gregory,Mathematics,Freshman
+S1161,Allen Taylor,Mathematics,Senior
+S1162,Margaret Norris,Mathematics,Senior
+S1163,Rebecca Weaver,Mathematics,Sophomore
+S1164,John Shah,Engineering,Freshman
+S1165,Joshua Klein,Mathematics,Freshman
+S1166,Heather Hood,Business,Sophomore
+S1167,Latasha Lloyd,Engineering,Junior
+S1168,Darrell Johnson,Mathematics,Freshman
+S1169,Susan Smith,Computer Science,Senior
+S1170,Randy Cohen,Computer Science,Freshman
+S1171,Keith Padilla,Business,Junior
+S1172,Theodore Richardson,Biology,Freshman
+S1173,Diamond Brock,Engineering,Senior
+S1174,Tyrone Jones,Computer Science,Junior
+S1175,Sierra Hicks,Computer Science,Sophomore
+S1176,Christopher Evans,Mathematics,Senior
+S1177,Phillip Cook,Mathematics,Freshman
+S1178,Timothy Waters,Business,Junior
+S1179,Lisa Baird,Business,Freshman
+S1180,Madison Robinson,Business,Junior
+S1181,Sarah Barrett,Engineering,Junior
+S1182,Bruce Jones,Biology,Freshman
+S1183,Carl Schaefer,Biology,Senior
+S1184,John Rodriguez,Computer Science,Freshman
+S1185,Ana Ramos,Computer Science,Junior
+S1186,Alyssa Valenzuela,Computer Science,Sophomore
+S1187,Ronald Perkins,Computer Science,Senior
+S1188,Dennis Moore,Business,Sophomore
+S1189,Rita Mahoney,Business,Senior
+S1190,Mr. Chase Smith,Computer Science,Junior
+S1191,Tyler Graves,Biology,Freshman
+S1192,Antonio Williams,Biology,Junior
+S1193,Jennifer Knight,Business,Junior
+S1194,Edward Perez,Engineering,Senior
+S1195,Steven Ramirez,Business,Sophomore
+S1196,Mark Elliott,Computer Science,Senior
+S1197,Shannon Douglas,Biology,Junior
+S1198,Amanda Hall,Mathematics,Sophomore
+S1199,Mark Hamilton,Mathematics,Junior
+S1200,Hannah Butler,Business,Senior
+S1201,Tonya Sanchez,Computer Science,Senior
+S1202,Robert Lewis,Biology,Sophomore
+S1203,Brian Mclaughlin,Computer Science,Junior
+S1204,Jacob Thornton,Mathematics,Sophomore
+S1205,Erik Roy,Computer Science,Junior
+S1206,David Perry,Biology,Senior
+S1207,Kathleen Schmidt,Engineering,Senior
+S1208,Jason Warner,Business,Sophomore
+S1209,Heidi Hammond,Biology,Sophomore
+S1210,Debra Carr,Business,Freshman
+S1211,Mr. Joshua Hill,Computer Science,Junior
+S1212,Angela Gonzalez,Engineering,Senior
+S1213,Mark Velasquez,Business,Sophomore
+S1214,Sierra Peterson,Engineering,Freshman
+S1215,Olivia Esparza,Computer Science,Sophomore
+S1216,Austin Rivas,Computer Science,Senior
+S1217,Shelby Ewing,Engineering,Freshman
+S1218,Suzanne Wilson,Mathematics,Freshman
+S1219,Brittany White,Business,Junior
+S1220,Debra Wilson,Business,Sophomore
+S1221,Samantha Hancock,Computer Science,Junior
+S1222,Edward Thompson,Mathematics,Junior
+S1223,Cheryl Dunn,Computer Science,Junior
+S1224,Ashley Wilson,Biology,Sophomore
+S1225,Gail Gillespie,Computer Science,Sophomore
+S1226,Derek Patel,Mathematics,Senior
+S1227,Ronald Scott,Mathematics,Freshman
+S1228,Michelle Warner,Computer Science,Sophomore
+S1229,Jesse Cox,Biology,Senior
+S1230,Kirsten Walker,Computer Science,Junior
+S1231,Lisa Fernandez,Mathematics,Junior
+S1232,Christopher Wade,Engineering,Freshman
+S1233,Peter Lopez,Biology,Senior
+S1234,Brian Whitney,Business,Sophomore
+S1235,Theresa Navarro,Computer Science,Senior
+S1236,Leslie Sims,Biology,Senior
+S1237,John Chen,Engineering,Senior
+S1238,Christina Johnson,Engineering,Freshman
+S1239,Mary Church,Biology,Senior
+S1240,Megan Scott,Mathematics,Senior
+S1241,Jeremy Welch,Computer Science,Sophomore
+S1242,Tiffany Johnson,Business,Junior
+S1243,Barbara Edwards,Mathematics,Freshman
+S1244,Donald Mcknight,Engineering,Freshman
+S1245,Antonio Wong,Biology,Freshman
+S1246,Tiffany Ford,Computer Science,Freshman
+S1247,Elizabeth Davis,Mathematics,Freshman
+S1248,Mrs. Toni Taylor,Computer Science,Freshman
+S1249,Mason Johnson,Mathematics,Senior
+S1250,Thomas Reynolds,Engineering,Sophomore
+S1251,Joseph Rivas,Biology,Junior
+S1252,Kelly Martin,Engineering,Sophomore
+S1253,Jessica Brown,Computer Science,Freshman
+S1254,Sydney Taylor,Engineering,Senior
+S1255,Jose Anderson,Biology,Junior
+S1256,Michael Lee,Computer Science,Sophomore
+S1257,Randy Martinez,Mathematics,Junior
+S1258,Michelle Mueller,Biology,Junior
+S1259,Melissa Griffin,Computer Science,Freshman
+S1260,Ashley Yates,Mathematics,Freshman
+S1261,Christopher Miller,Mathematics,Senior
+S1262,Ryan Smith,Engineering,Sophomore
+S1263,William Sampson,Business,Junior
+S1264,Michael Mcdaniel,Engineering,Freshman
+S1265,Jacob Nelson,Biology,Sophomore
+S1266,Sean Wood,Mathematics,Junior
+S1267,John Hopkins,Computer Science,Sophomore
+S1268,Mrs. Katie Peterson PhD,Business,Sophomore
+S1269,Leah Landry,Computer Science,Junior
+S1270,Patrick Watson,Computer Science,Junior
+S1271,Patricia Becker,Computer Science,Senior
+S1272,Stephen Lewis,Business,Sophomore
+S1273,Angel Palmer,Mathematics,Junior
+S1274,David Jones,Mathematics,Junior
+S1275,Thomas Cox,Biology,Junior
+S1276,Linda Taylor,Business,Sophomore
+S1277,Anthony Martinez,Mathematics,Sophomore
+S1278,Kevin Clark,Mathematics,Freshman
+S1279,George Martinez,Computer Science,Senior
+S1280,Ronald Daugherty,Biology,Senior
+S1281,Patrick Watkins,Business,Junior
+S1282,Maureen Lee,Biology,Freshman
+S1283,Ana Brown,Engineering,Junior
+S1284,Jay Williamson,Biology,Junior
+S1285,Jonathan Santiago,Biology,Sophomore
+S1286,Morgan Mayer,Biology,Freshman
+S1287,Dustin Cisneros,Biology,Sophomore
+S1288,Nicole Dickerson,Mathematics,Junior
+S1289,Paula Wright,Business,Sophomore
+S1290,Cassandra Thomas,Mathematics,Senior
+S1291,Ricardo Sharp,Engineering,Senior
+S1292,Jeanette Singleton,Engineering,Freshman
+S1293,Charles Carroll,Engineering,Sophomore
+S1294,Candace Bishop,Mathematics,Sophomore
+S1295,Nicole Taylor,Biology,Junior
+S1296,Jacqueline Michael,Business,Senior
+S1297,Norma Coleman,Biology,Sophomore
+S1298,Annette Hernandez,Biology,Freshman
+S1299,Donald Henry,Engineering,Sophomore
+S1300,Amy Johnson,Computer Science,Freshman
+S1301,Alexa Anderson,Mathematics,Junior
+S1302,Melvin Johnson,Engineering,Junior
+S1303,Mary Myers,Computer Science,Junior
+S1304,Amanda Guerra,Engineering,Freshman
+S1305,Darren Duke,Engineering,Junior
+S1306,Susan Bennett,Computer Science,Sophomore
+S1307,Daniel Paul,Business,Sophomore
+S1308,Jasmine Evans,Biology,Senior
+S1309,Anna Norman,Business,Junior
+S1310,Stephen Moyer,Biology,Sophomore
+S1311,Derek Gallagher,Biology,Senior
+S1312,Jennifer Dillon,Mathematics,Senior
+S1313,Gina Rogers,Business,Junior
+S1314,Molly Bell,Mathematics,Senior
+S1315,Jose Garcia,Mathematics,Freshman
+S1316,Sheila Hernandez,Mathematics,Freshman
+S1317,Zachary Perry,Computer Science,Sophomore
+S1318,Katie Ayala,Biology,Freshman
+S1319,Joanne Larsen,Engineering,Junior
+S1320,Nicholas Bailey,Computer Science,Freshman
+S1321,Bobby Barker,Engineering,Junior
+S1322,Ryan Clay,Biology,Junior
+S1323,Christina Lewis,Computer Science,Senior
+S1324,Jennifer Larson,Mathematics,Senior
+S1325,Audrey Graham,Computer Science,Freshman
+S1326,Laura Strickland MD,Business,Freshman
+S1327,Sandy Harvey,Mathematics,Freshman
+S1328,Sarah Griffin,Biology,Freshman
+S1329,Larry Hodge,Computer Science,Sophomore
+S1330,Jerry Fletcher,Business,Junior
+S1331,James Meza,Engineering,Freshman
+S1332,Joshua Conley,Mathematics,Sophomore
+S1333,Anthony Williams,Mathematics,Senior
+S1334,Stephen Anderson,Computer Science,Junior
+S1335,Mr. John Mendez,Computer Science,Freshman
+S1336,Tim Ortiz,Biology,Senior
+S1337,Micheal Thompson,Engineering,Senior
+S1338,Bradley Moran,Mathematics,Junior
+S1339,Douglas Thomas,Mathematics,Junior
+S1340,Amanda Fry,Computer Science,Freshman
+S1341,Heather Miller,Biology,Freshman
+S1342,Richard Johnson,Mathematics,Senior
+S1343,Joseph Turner,Biology,Freshman
+S1344,Brian Young,Computer Science,Junior
+S1345,Daniel Hoffman,Business,Freshman
+S1346,Tina Ramsey,Computer Science,Senior
+S1347,Sheri Long,Mathematics,Senior
+S1348,Janet Morales,Mathematics,Junior
+S1349,David Henry,Engineering,Senior
+S1350,Brian Douglas,Mathematics,Sophomore
+S1351,Christopher Anderson,Engineering,Sophomore
+S1352,William Bird,Biology,Sophomore
+S1353,Elizabeth Ellis,Business,Senior
+S1354,Lauren Martin,Biology,Junior
+S1355,Diana Carroll,Mathematics,Senior
+S1356,Cheyenne Blankenship,Mathematics,Junior
+S1357,Mrs. Wendy Rosales,Biology,Junior
+S1358,Shannon Schroeder,Engineering,Senior
+S1359,Sandra Russell,Biology,Senior
+S1360,Cindy Sanchez,Business,Freshman
+S1361,Laura Hess,Engineering,Sophomore
+S1362,Eric Dixon,Mathematics,Sophomore
+S1363,Charles Stout,Engineering,Freshman
+S1364,Jennifer Jackson,Business,Freshman
+S1365,Dennis Haas,Computer Science,Freshman
+S1366,Michael Sanford,Computer Science,Freshman
+S1367,Angela Nelson,Computer Science,Freshman
+S1368,Taylor Kelley,Business,Freshman
+S1369,Dustin Hernandez,Computer Science,Sophomore
+S1370,Eric Clark,Computer Science,Sophomore
+S1371,Noah Morgan,Computer Science,Sophomore
+S1372,Linda Gilbert,Business,Sophomore
+S1373,Kelly Hopkins,Mathematics,Freshman
+S1374,Richard Johnson,Computer Science,Senior
+S1375,Tom Miller,Business,Junior
+S1376,Joseph Dorsey,Engineering,Junior
+S1377,Sharon Harris,Business,Sophomore
+S1378,Stephen Torres,Engineering,Sophomore
+S1379,Catherine Wilson,Business,Freshman
+S1380,Dawn Gillespie,Mathematics,Junior
+S1381,Michelle Anderson,Biology,Freshman
+S1382,Yvette Garrett,Computer Science,Junior
+S1383,Bobby Evans,Biology,Junior
+S1384,Jose Nicholson,Computer Science,Senior
+S1385,John Wood,Mathematics,Sophomore
+S1386,Tyler Heath,Computer Science,Junior
+S1387,Breanna Jackson,Business,Freshman
+S1388,Amanda Burns,Business,Sophomore
+S1389,Christopher Brown,Computer Science,Junior
+S1390,John Green,Business,Sophomore
+S1391,Alan Odonnell,Engineering,Senior
+S1392,Carol Ingram,Business,Senior
+S1393,Emma Carson,Business,Junior
+S1394,Laura Bonilla,Engineering,Freshman
+S1395,Darryl Sanchez,Business,Senior
+S1396,Andrea Hardy,Engineering,Sophomore
+S1397,Jason Wheeler,Engineering,Senior
+S1398,Katie Glover,Mathematics,Senior
+S1399,Stephen Bolton,Mathematics,Junior
+S1400,Bradley Barron,Mathematics,Freshman
+S1401,Jonathan Bailey,Computer Science,Junior
+S1402,Stephanie Wright,Computer Science,Freshman
+S1403,James Howard,Biology,Senior
+S1404,Mr. Randy Waller,Biology,Junior
+S1405,Kevin Powell,Engineering,Senior
+S1406,James Porter,Biology,Senior
+S1407,Joshua Floyd,Biology,Sophomore
+S1408,David Price,Computer Science,Sophomore
+S1409,Susan Robinson,Business,Freshman
+S1410,Albert Keller,Mathematics,Freshman
+S1411,Mallory Dickson,Mathematics,Freshman
+S1412,Brett Bradley,Computer Science,Senior
+S1413,Stephanie Townsend,Mathematics,Junior
+S1414,Gabrielle Morgan,Computer Science,Freshman
+S1415,Veronica Ballard,Biology,Senior
+S1416,William Brown,Engineering,Junior
+S1417,Anthony Fischer,Mathematics,Junior
+S1418,Brandy Ferguson,Business,Sophomore
+S1419,Amy Harrington,Engineering,Freshman
+S1420,Karen Baker,Biology,Senior
+S1421,Diana Winters,Computer Science,Senior
+S1422,Michael Richardson,Engineering,Sophomore
+S1423,Donald Welch,Mathematics,Junior
+S1424,Janet Valdez,Biology,Senior
+S1425,Tammy Hardy,Engineering,Senior
+S1426,Alyssa Hernandez,Business,Sophomore
+S1427,Courtney Williams,Biology,Junior
+S1428,Maria Herrera,Computer Science,Freshman
+S1429,Nicholas Baker,Engineering,Senior
+S1430,Bryan Sutton,Computer Science,Sophomore
+S1431,Derek Horn,Engineering,Junior
+S1432,Kevin Blake,Computer Science,Senior
+S1433,Rachel Horton,Mathematics,Freshman
+S1434,Matthew Marshall,Computer Science,Senior
+S1435,David Evans,Business,Junior
+S1436,Vincent Oliver,Biology,Freshman
+S1437,Mark Tucker,Engineering,Sophomore
+S1438,Eric Jones,Business,Junior
+S1439,Jeffery Cochran,Business,Sophomore
+S1440,Dr. Nicole Morton MD,Mathematics,Sophomore
+S1441,Kimberly Jacobs,Business,Freshman
+S1442,Tamara Salazar DDS,Computer Science,Sophomore
+S1443,Jennifer Stephenson,Biology,Junior
+S1444,Renee Gibson,Mathematics,Freshman
+S1445,Jane Erickson,Computer Science,Sophomore
+S1446,Michael Owens,Engineering,Sophomore
+S1447,Anne Edwards,Business,Senior
+S1448,Todd English,Mathematics,Sophomore
+S1449,David Cowan,Biology,Junior
+S1450,Joseph Sanford,Computer Science,Senior
+S1451,John Orozco,Biology,Senior
+S1452,Jennifer Washington,Computer Science,Senior
+S1453,Donald Thompson,Biology,Sophomore
+S1454,Stephanie Riddle,Business,Junior
+S1455,Jesse Howard,Business,Sophomore
+S1456,Kristen Ibarra,Business,Senior
+S1457,John Smith,Computer Science,Sophomore
+S1458,Laura Lara,Business,Junior
+S1459,Brian Clark,Biology,Freshman
+S1460,David Campos,Engineering,Junior
+S1461,Rebecca Gutierrez,Computer Science,Junior
+S1462,Karen Bridges,Engineering,Sophomore
+S1463,Kevin Wagner,Computer Science,Junior
+S1464,Juan Conway,Business,Junior
+S1465,Tiffany Cobb,Mathematics,Sophomore
+S1466,Travis Horn,Computer Science,Sophomore
+S1467,Mary Jackson,Mathematics,Senior
+S1468,Anna Collins,Business,Junior
+S1469,Samantha Barber,Biology,Senior
+S1470,Renee Garrison,Engineering,Sophomore
+S1471,Thomas Black MD,Computer Science,Freshman
+S1472,Larry Mack,Mathematics,Junior
+S1473,Sandra Griffin,Mathematics,Sophomore
+S1474,Maria Davis,Mathematics,Freshman
+S1475,Alicia Adams,Biology,Senior
+S1476,Elizabeth Moore,Mathematics,Senior
+S1477,Christopher Johns,Mathematics,Senior
+S1478,Michael Austin,Computer Science,Senior
+S1479,Joel Matthews,Computer Science,Freshman
+S1480,Jason Sanders,Biology,Senior
+S1481,Crystal Warren,Computer Science,Senior
+S1482,Jesse Barker,Computer Science,Freshman
+S1483,Jordan Sanders,Business,Junior
+S1484,Jessica Gonzales,Engineering,Freshman
+S1485,Larry Briggs,Business,Freshman
+S1486,Melissa Smith,Mathematics,Senior
+S1487,Ryan Bray,Engineering,Junior
+S1488,Sarah Shields,Biology,Senior
+S1489,Paul Fox,Mathematics,Sophomore
+S1490,Virginia Brewer,Mathematics,Junior
+S1491,Crystal Webster,Engineering,Freshman
+S1492,Deborah Watson,Engineering,Junior
+S1493,Carolyn Gomez,Engineering,Sophomore
+S1494,Rachel Scott,Engineering,Senior
+S1495,Jason Mendoza,Engineering,Freshman
+S1496,Ashley Dominguez,Engineering,Senior
+S1497,Jacqueline Carter,Engineering,Sophomore
+S1498,Manuel Rich,Engineering,Freshman
+S1499,Bonnie Rogers DVM,Mathematics,Freshman
+S1500,Kristen Lee,Business,Freshman
+S1501,David Clark,Business,Sophomore
+S1502,Kelly Russell,Computer Science,Sophomore
+S1503,Cody Harris,Mathematics,Senior
+S1504,Stephen Myers,Engineering,Freshman
+S1505,Steven Tucker,Mathematics,Junior
+S1506,Deanna Miller,Biology,Sophomore
+S1507,Sheila Alexander,Computer Science,Freshman
+S1508,Christopher Castillo,Engineering,Sophomore
+S1509,Michael Smith,Computer Science,Sophomore
+S1510,Chelsea Gonzalez,Business,Sophomore
+S1511,Maria Smith,Biology,Sophomore
+S1512,Catherine White,Computer Science,Junior
+S1513,Rhonda Richardson,Engineering,Freshman
+S1514,Jose Lam,Mathematics,Junior
+S1515,Kathy Smith,Computer Science,Freshman
+S1516,William Bell,Business,Sophomore
+S1517,James Jenkins,Mathematics,Junior
+S1518,Judy Reid,Business,Senior
+S1519,Jennifer Smith,Business,Freshman
+S1520,Maria Calhoun,Mathematics,Freshman
+S1521,Adam Sanchez,Business,Senior
+S1522,Amy Thomas,Computer Science,Senior
+S1523,Christina Rodriguez,Biology,Junior
+S1524,James Gilbert,Computer Science,Senior
+S1525,Amanda Gilbert,Engineering,Junior
+S1526,Philip Williams,Business,Senior
+S1527,Kelly Thomas,Engineering,Junior
+S1528,Nicole Parker,Business,Sophomore
+S1529,Kyle Nicholson,Engineering,Sophomore
+S1530,Mary Wood,Computer Science,Freshman
+S1531,Kayla Wallace,Mathematics,Sophomore
+S1532,Mrs. Alexandra Nicholson,Computer Science,Senior
+S1533,Amy Taylor,Computer Science,Junior
+S1534,Nathaniel Ford,Engineering,Junior
+S1535,Rebecca Williams,Biology,Junior
+S1536,Ashley Nichols,Computer Science,Senior
+S1537,Jerome Rogers,Mathematics,Junior
+S1538,Stephanie Sanders DDS,Business,Sophomore
+S1539,Nicholas Scott,Business,Junior
+S1540,Ronald Douglas,Engineering,Junior
+S1541,Brian Nelson,Biology,Junior
+S1542,Taylor Hess,Biology,Junior
+S1543,Harry Rose,Engineering,Freshman
+S1544,Matthew Mcclure,Business,Sophomore
+S1545,Edward Scott,Biology,Junior
+S1546,Meagan Hendrix,Biology,Sophomore
+S1547,Deborah Mccall,Business,Senior
+S1548,Laura Huffman,Biology,Junior
+S1549,Mary Chan,Biology,Senior
+S1550,Johnathan Santana,Business,Freshman
+S1551,Bridget Blake,Computer Science,Sophomore
+S1552,Christopher Morse,Mathematics,Freshman
+S1553,Manuel Todd,Mathematics,Senior
+S1554,Brendan Ryan,Computer Science,Sophomore
+S1555,Joseph Smith,Mathematics,Sophomore
+S1556,Karen Howell,Engineering,Junior
+S1557,Mary Alvarez,Engineering,Junior
+S1558,Audrey Moore,Mathematics,Junior
+S1559,Kelly Mason,Engineering,Junior
+S1560,John Hayes,Mathematics,Senior
+S1561,Mark Owens,Mathematics,Junior
+S1562,Edwin Smith,Mathematics,Sophomore
+S1563,Christian Hill,Biology,Senior
+S1564,Donald Reynolds,Mathematics,Freshman
+S1565,Tyler Ruiz,Computer Science,Senior
+S1566,John Parks,Business,Freshman
+S1567,Jason Flores,Business,Freshman
+S1568,Mary Medina,Computer Science,Senior
+S1569,Janet Trujillo,Biology,Junior
+S1570,Zachary Munoz,Mathematics,Freshman
+S1571,Mary Costa,Business,Sophomore
+S1572,Amanda Ward,Engineering,Freshman
+S1573,Rebecca Jackson,Computer Science,Senior
+S1574,Terri Rosario,Biology,Sophomore
+S1575,Christopher Lane,Computer Science,Senior
+S1576,Phillip Carter,Business,Sophomore
+S1577,Amanda Farmer,Biology,Senior
+S1578,Stephen Williams,Mathematics,Freshman
+S1579,Holly Snyder,Biology,Freshman
+S1580,Kelly Pena,Business,Senior
+S1581,Mr. Gilbert Green DDS,Business,Freshman
+S1582,Edwin Navarro,Business,Sophomore
+S1583,Kevin Mitchell,Mathematics,Junior
+S1584,Jennifer Griffin,Computer Science,Junior
+S1585,Karen Johnson,Biology,Sophomore
+S1586,Sandra Zimmerman,Computer Science,Freshman
+S1587,Zachary Hayden,Computer Science,Junior
+S1588,Anna Torres,Business,Freshman
+S1589,Alexandra Vasquez,Engineering,Senior
+S1590,Julie Moore,Mathematics,Senior
+S1591,Angela Kim MD,Biology,Sophomore
+S1592,Raymond Bowman,Biology,Senior
+S1593,Daniel Valenzuela,Engineering,Freshman
+S1594,Martha Johnson,Engineering,Junior
+S1595,Heather Roy,Engineering,Senior
+S1596,Jonathan Robertson,Biology,Junior
+S1597,Theresa Tran,Business,Sophomore
+S1598,Hannah Hopkins,Mathematics,Senior
+S1599,Stephen Jackson,Mathematics,Senior
+S1600,Barbara Shaffer,Business,Junior
+S1601,Shane Snyder,Computer Science,Junior
+S1602,Judy White,Business,Junior
+S1603,Colin Mcbride,Business,Junior
+S1604,Sherry Sanford,Biology,Sophomore
+S1605,Jesse Gonzalez,Mathematics,Senior
+S1606,Christian Cannon,Business,Sophomore
+S1607,Dr. Phillip Mitchell,Business,Freshman
+S1608,Christopher White,Mathematics,Junior
+S1609,Chris Dawson MD,Engineering,Freshman
+S1610,Maria Cox,Business,Sophomore
+S1611,Sean Kelly,Biology,Junior
+S1612,Angel Wells,Biology,Senior
+S1613,Beverly Santos,Computer Science,Freshman
+S1614,David Brooks,Engineering,Freshman
+S1615,Jason Figueroa,Biology,Sophomore
+S1616,Kimberly Williams,Mathematics,Senior
+S1617,Lauren Archer,Engineering,Sophomore
+S1618,Robert Mcdonald,Mathematics,Junior
+S1619,Carlos Smith,Computer Science,Senior
+S1620,Alexandra Hopkins,Biology,Junior
+S1621,Elaine Pennington,Business,Freshman
+S1622,Kevin Wilson,Mathematics,Junior
+S1623,Sean David,Biology,Sophomore
+S1624,Jamie Dougherty,Mathematics,Freshman
+S1625,Joseph Jones,Biology,Freshman
+S1626,Nicole Frank,Business,Senior
+S1627,Dana Flores,Computer Science,Junior
+S1628,John Conley,Mathematics,Sophomore
+S1629,Dr. David Wilson DDS,Biology,Junior
+S1630,Jason Castillo Jr.,Engineering,Senior
+S1631,Andrea Johnston,Business,Senior
+S1632,Mario Miranda,Biology,Sophomore
+S1633,Morgan Horn,Business,Sophomore
+S1634,Raymond Novak,Mathematics,Sophomore
+S1635,Barbara Robinson,Business,Senior
+S1636,Michaela Riddle,Business,Senior
+S1637,Shane Davis,Business,Junior
+S1638,Ray Barnes,Business,Sophomore
+S1639,Peter Valdez,Biology,Senior
+S1640,Gabriel Campbell,Biology,Freshman
+S1641,Renee Walsh,Computer Science,Freshman
+S1642,Chad Hopkins,Mathematics,Sophomore
+S1643,Richard Chavez,Biology,Sophomore
+S1644,Jason Rogers,Mathematics,Freshman
+S1645,Alexis Brown,Mathematics,Freshman
+S1646,Patrick Mccall,Computer Science,Sophomore
+S1647,Mariah Torres,Mathematics,Junior
+S1648,Kathy Hoffman,Computer Science,Freshman
+S1649,Ana Mendoza DVM,Business,Junior
+S1650,Kerry Hart,Business,Junior
+S1651,Scott Garcia,Business,Senior
+S1652,Sarah Anderson,Business,Senior
+S1653,Erika Gross,Engineering,Junior
+S1654,Edwin Lambert,Mathematics,Freshman
+S1655,Nicole Howell,Business,Freshman
+S1656,Samantha Brown,Engineering,Sophomore
+S1657,Kristen Marshall,Mathematics,Freshman
+S1658,Tammy Reed,Mathematics,Junior
+S1659,Pamela Mendez,Biology,Sophomore
+S1660,Daniel Gutierrez,Computer Science,Junior
+S1661,Alicia Harrell,Engineering,Sophomore
+S1662,Bradley Johnson,Business,Freshman
+S1663,William Wilson,Engineering,Senior
+S1664,Shawn Gutierrez,Computer Science,Junior
+S1665,Heidi Thomas,Mathematics,Sophomore
+S1666,Marcus Hull,Mathematics,Freshman
+S1667,Brian Vazquez,Biology,Freshman
+S1668,Michelle Jones,Computer Science,Senior
+S1669,Monica Alexander,Biology,Junior
+S1670,Andrew Tucker,Mathematics,Freshman
+S1671,Stephanie Le,Engineering,Freshman
+S1672,Susan Flores,Computer Science,Freshman
+S1673,Donald Hernandez,Business,Junior
+S1674,Shawn Mcclain,Mathematics,Freshman
+S1675,Anthony White,Computer Science,Senior
+S1676,Michael Elliott,Mathematics,Senior
+S1677,Rachel Holder,Business,Freshman
+S1678,Amber Sampson,Engineering,Sophomore
+S1679,Donna Jones,Computer Science,Senior
+S1680,Jennifer Davis,Computer Science,Senior
+S1681,Andrew Bartlett,Computer Science,Senior
+S1682,Jonathan Rose,Biology,Senior
+S1683,Keith Reed,Biology,Freshman
+S1684,Ashley Bell,Engineering,Junior
+S1685,Christina Clark,Computer Science,Freshman
+S1686,Melissa Taylor,Engineering,Senior
+S1687,Wendy Gutierrez,Computer Science,Senior
+S1688,Dawn Hall,Computer Science,Freshman
+S1689,Gene Perez,Mathematics,Sophomore
+S1690,Kevin Gray,Computer Science,Freshman
+S1691,Garrett Myers,Business,Sophomore
+S1692,Gina Hodge,Engineering,Senior
+S1693,Yvonne Vincent,Computer Science,Sophomore
+S1694,Meghan Cooper,Business,Freshman
+S1695,Christopher Williams,Business,Sophomore
+S1696,Stephanie Morales,Business,Junior
+S1697,Robert Cruz,Mathematics,Sophomore
+S1698,Tammy Brooks,Business,Junior
+S1699,Rick Miller,Biology,Junior
+S1700,Maxwell Murphy,Biology,Sophomore
+S1701,Richard Phillips,Business,Freshman
+S1702,Rebecca Sanchez,Business,Senior
+S1703,Tina Smith,Biology,Freshman
+S1704,David Norris,Business,Sophomore
+S1705,Ronald Dawson,Computer Science,Junior
+S1706,Troy Holt,Business,Freshman
+S1707,Suzanne Christian,Biology,Sophomore
+S1708,Cynthia Jackson,Computer Science,Sophomore
+S1709,Leonard Dominguez,Computer Science,Sophomore
+S1710,Harold Weaver,Computer Science,Senior
+S1711,Mark Porter,Business,Sophomore
+S1712,Brian Calhoun,Business,Freshman
+S1713,Dominique Williams,Business,Senior
+S1714,Bonnie Morse,Business,Freshman
+S1715,Mathew Allen,Engineering,Junior
+S1716,Hayden Lozano,Computer Science,Junior
+S1717,Michael Gonzales,Biology,Sophomore
+S1718,Ryan Mcbride,Business,Senior
+S1719,Eric Doyle,Computer Science,Senior
+S1720,Jacob Robbins,Business,Freshman
+S1721,Nathan Ramirez,Mathematics,Junior
+S1722,Jason Knight,Business,Freshman
+S1723,Henry Curtis,Biology,Junior
+S1724,Katie Rios,Biology,Sophomore
+S1725,Alexis Branch,Computer Science,Junior
+S1726,Kimberly Gonzalez,Computer Science,Junior
+S1727,Stephen Anderson,Mathematics,Sophomore
+S1728,Antonio Lam,Mathematics,Junior
+S1729,Greg Smith,Business,Freshman
+S1730,Jill Sanders,Business,Junior
+S1731,Kyle Oneal,Engineering,Freshman
+S1732,Julie Savage,Engineering,Senior
+S1733,Hector Adams,Computer Science,Freshman
+S1734,Abigail Murphy,Mathematics,Freshman
+S1735,Christina Melendez,Engineering,Freshman
+S1736,Julie Gonzalez,Engineering,Senior
+S1737,James Garrett,Biology,Senior
+S1738,Kirsten Robinson,Mathematics,Junior
+S1739,Wendy Miranda,Biology,Sophomore
+S1740,Chad Pearson,Biology,Senior
+S1741,Lori George,Computer Science,Junior
+S1742,Terri Powell,Engineering,Junior
+S1743,Erin Smith,Engineering,Freshman
+S1744,Alan Rice,Engineering,Freshman
+S1745,Nicole Young,Mathematics,Junior
+S1746,Sabrina Roberts,Business,Freshman
+S1747,Dean Hall,Mathematics,Freshman
+S1748,Katelyn Fuller,Business,Freshman
+S1749,Michael Cross,Biology,Sophomore
+S1750,Katherine Williams,Computer Science,Sophomore
+S1751,Mark Wilson,Business,Freshman
+S1752,Carrie White,Mathematics,Sophomore
+S1753,Nicholas Diaz,Biology,Freshman
+S1754,Diana Weiss,Mathematics,Senior
+S1755,Austin Martinez,Mathematics,Freshman
+S1756,Christopher Johnson,Engineering,Freshman
+S1757,Sharon Klein,Biology,Sophomore
+S1758,Angela Walter,Mathematics,Senior
+S1759,Alexis King,Biology,Sophomore
+S1760,Martin Elliott,Mathematics,Senior
+S1761,Kathleen Mcmillan,Biology,Freshman
+S1762,Dana Morris,Computer Science,Freshman
+S1763,Destiny Hunt,Business,Freshman
+S1764,Sabrina Norris,Computer Science,Senior
+S1765,Pamela Burns,Computer Science,Sophomore
+S1766,Nancy Mccullough,Biology,Senior
+S1767,Robert Scott,Mathematics,Freshman
+S1768,Amanda Jackson,Computer Science,Sophomore
+S1769,Shelby Mann,Engineering,Freshman
+S1770,Javier Rivas,Engineering,Sophomore
+S1771,Jennifer Robinson,Business,Freshman
+S1772,Joshua Williams,Computer Science,Freshman
+S1773,Michelle Lambert,Computer Science,Junior
+S1774,Jimmy Sanchez,Computer Science,Freshman
+S1775,Troy Graham,Engineering,Junior
+S1776,Lisa Arellano,Computer Science,Junior
+S1777,Emily Hoffman,Biology,Sophomore
+S1778,Jaime Mcguire,Engineering,Junior
+S1779,James Santana,Mathematics,Junior
+S1780,Colleen Johnson,Business,Senior
+S1781,Paul Thomas,Business,Freshman
+S1782,James Aguilar,Business,Senior
+S1783,Deborah Valdez,Biology,Senior
+S1784,Joshua Roberts,Mathematics,Junior
+S1785,Brenda Townsend,Engineering,Sophomore
+S1786,John Page,Mathematics,Senior
+S1787,Kayla Riley,Mathematics,Junior
+S1788,Bruce Drake Jr.,Engineering,Sophomore
+S1789,Matthew Nelson,Biology,Junior
+S1790,Jacob Smith,Business,Freshman
+S1791,Nicholas Hurley,Mathematics,Freshman
+S1792,Mrs. Tiffany Sanders,Computer Science,Senior
+S1793,Nathaniel Hatfield,Business,Senior
+S1794,Kaitlin Brown,Business,Freshman
+S1795,Curtis Freeman,Business,Sophomore
+S1796,Eric Skinner,Engineering,Freshman
+S1797,Amanda Nelson,Computer Science,Senior
+S1798,Mark Mckinney,Business,Senior
+S1799,Regina Vasquez,Computer Science,Junior
+S1800,Joshua Erickson,Engineering,Freshman
+S1801,David Ellis,Engineering,Junior
+S1802,Cynthia Cooper,Biology,Freshman
+S1803,Alexa Howard,Engineering,Senior
+S1804,Joel Lloyd,Mathematics,Junior
+S1805,Jessica Kennedy,Mathematics,Senior
+S1806,Suzanne Riggs,Computer Science,Sophomore
+S1807,Jeffrey Shannon,Biology,Junior
+S1808,Kenneth Williams,Computer Science,Junior
+S1809,Robert Hanson,Engineering,Freshman
+S1810,Robin Grant,Biology,Freshman
+S1811,Amanda Jones,Mathematics,Sophomore
+S1812,Alexander King,Biology,Junior
+S1813,Austin Ray,Mathematics,Junior
+S1814,Albert Lopez,Biology,Sophomore
+S1815,Gavin Johnson,Engineering,Freshman
+S1816,John Brown DVM,Computer Science,Sophomore
+S1817,Chelsea Ramos,Biology,Senior
+S1818,Brittany Smith,Engineering,Junior
+S1819,Penny White,Mathematics,Freshman
+S1820,Alexis Osborne,Biology,Freshman
+S1821,Mr. Gabriel Elliott,Biology,Senior
+S1822,Judith Herring,Engineering,Freshman
+S1823,Joel Rodriguez,Biology,Senior
+S1824,John Harper,Mathematics,Junior
+S1825,Craig Brown,Biology,Junior
+S1826,Angela Davis,Engineering,Sophomore
+S1827,Kimberly Harper,Engineering,Freshman
+S1828,Kevin Graham,Business,Junior
+S1829,Lori Grant,Business,Junior
+S1830,Mark Jones,Mathematics,Senior
+S1831,Sandra Lyons,Biology,Junior
+S1832,Thomas Morse,Computer Science,Senior
+S1833,Mary Bean,Mathematics,Senior
+S1834,Troy Weber,Computer Science,Junior
+S1835,Sarah Thompson,Engineering,Senior
+S1836,Dorothy Francis,Computer Science,Sophomore
+S1837,Susan Barrett,Computer Science,Sophomore
+S1838,Nathaniel Ho,Biology,Junior
+S1839,Jeffrey Johnson,Computer Science,Freshman
+S1840,Robyn Acevedo,Mathematics,Sophomore
+S1841,Bridget Evans,Biology,Senior
+S1842,Brittany Yoder,Mathematics,Junior
+S1843,Sarah Anderson,Mathematics,Junior
+S1844,James Perez,Business,Junior
+S1845,Alec Moore,Biology,Freshman
+S1846,Jonathan Stone,Computer Science,Junior
+S1847,Dana Vincent,Mathematics,Junior
+S1848,John Moore,Computer Science,Senior
+S1849,Kristopher Mason,Computer Science,Freshman
+S1850,Melissa Carter,Biology,Junior
+S1851,Melissa Bell,Mathematics,Senior
+S1852,Dylan Burke,Business,Freshman
+S1853,Amy Brown,Biology,Freshman
+S1854,John Perez,Engineering,Sophomore
+S1855,John Rodriguez,Engineering,Senior
+S1856,Jessica Ball,Computer Science,Freshman
+S1857,Robert Schroeder,Mathematics,Freshman
+S1858,Hector Bryant,Business,Senior
+S1859,Kristina Walker,Biology,Sophomore
+S1860,Denise Lester,Biology,Senior
+S1861,Michael Brown,Mathematics,Senior
+S1862,Brenda Reese,Mathematics,Senior
+S1863,William Fields,Computer Science,Junior
+S1864,Robin Hammond,Business,Sophomore
+S1865,Stephanie Moreno,Engineering,Freshman
+S1866,Brandon Clark,Computer Science,Freshman
+S1867,Vanessa Copeland,Biology,Freshman
+S1868,Jonathan Downs,Mathematics,Senior
+S1869,Edgar Yang,Biology,Senior
+S1870,Lawrence Baldwin,Biology,Senior
+S1871,Melissa Pearson,Biology,Junior
+S1872,Laura Lewis,Computer Science,Junior
+S1873,Benjamin Buchanan,Mathematics,Junior
+S1874,Connie Lopez,Biology,Senior
+S1875,Joshua Le,Biology,Junior
+S1876,Benjamin Bell,Engineering,Sophomore
+S1877,Karla Wiley,Mathematics,Junior
+S1878,David Hunt,Computer Science,Senior
+S1879,Wendy Erickson,Business,Freshman
+S1880,Cody Ryan,Computer Science,Freshman
+S1881,Kevin Hunt,Engineering,Sophomore
+S1882,John Thomas,Computer Science,Senior
+S1883,Jennifer Forbes,Engineering,Junior
+S1884,Dwayne Novak,Business,Freshman
+S1885,Glen Gomez,Engineering,Freshman
+S1886,Vanessa Ellison,Biology,Junior
+S1887,Nancy Shaw,Computer Science,Senior
+S1888,Mr. Dale Buchanan MD,Business,Senior
+S1889,Jacqueline Shaw,Engineering,Sophomore
+S1890,Ariana Perez,Biology,Senior
+S1891,Katie Lopez,Business,Senior
+S1892,Richard Dixon,Business,Senior
+S1893,Hannah Smith,Business,Junior
+S1894,Melvin Chapman,Mathematics,Junior
+S1895,James Nelson,Business,Senior
+S1896,Richard Marshall Jr.,Mathematics,Senior
+S1897,Brenda Delgado,Engineering,Senior
+S1898,James Joyce,Mathematics,Senior
+S1899,Christy Edwards,Mathematics,Senior
+S1900,Micheal Jones,Computer Science,Sophomore
+S1901,Joseph Ortiz,Computer Science,Freshman
+S1902,Linda Frank,Biology,Junior
+S1903,Kevin Tate,Mathematics,Sophomore
+S1904,Jason Phillips,Mathematics,Sophomore
+S1905,Christopher Larsen,Mathematics,Freshman
+S1906,William Calhoun,Engineering,Senior
+S1907,Jeffery Yu,Engineering,Freshman
+S1908,Jill Calderon,Mathematics,Sophomore
+S1909,David Perry,Computer Science,Senior
+S1910,Amber Mayer,Business,Junior
+S1911,Jessica Parker,Biology,Senior
+S1912,Jeremiah Hansen,Biology,Freshman
+S1913,Bobby Willis,Mathematics,Freshman
+S1914,Stephanie Hernandez,Mathematics,Sophomore
+S1915,Todd Campbell,Computer Science,Freshman
+S1916,Danielle Williamson,Engineering,Freshman
+S1917,Stephen Curry,Computer Science,Sophomore
+S1918,Renee Juarez,Engineering,Sophomore
+S1919,Gary Castillo,Mathematics,Senior
+S1920,Darrell Aguilar,Biology,Freshman
+S1921,Jessica Carpenter,Business,Freshman
+S1922,Casey Edwards,Business,Senior
+S1923,Haley Cole,Business,Freshman
+S1924,Antonio Hobbs,Engineering,Junior
+S1925,Troy Ryan,Computer Science,Senior
+S1926,Michael Bray,Engineering,Freshman
+S1927,Clifford Hunter,Computer Science,Freshman
+S1928,Collin Bishop,Computer Science,Junior
+S1929,Jeffrey Luna,Mathematics,Freshman
+S1930,Cheryl Ortiz,Biology,Freshman
+S1931,Dale Wheeler,Business,Sophomore
+S1932,Charles Wilson,Computer Science,Freshman
+S1933,Jose Thompson,Mathematics,Senior
+S1934,Patrick Gallagher,Mathematics,Freshman
+S1935,Kelly Powell,Biology,Freshman
+S1936,Carrie Ayala,Mathematics,Freshman
+S1937,Elizabeth Lloyd,Biology,Junior
+S1938,Renee Cooper,Mathematics,Sophomore
+S1939,Nicholas Marshall,Computer Science,Sophomore
+S1940,Angela Coleman,Biology,Sophomore
+S1941,Debbie Nunez,Computer Science,Sophomore
+S1942,Steven Garrison,Computer Science,Sophomore
+S1943,Jamie Williams,Biology,Senior
+S1944,Joshua Martinez,Engineering,Sophomore
+S1945,Mariah Randolph,Biology,Senior
+S1946,Tracy Steele,Computer Science,Senior
+S1947,Brittney Tyler,Mathematics,Junior
+S1948,Jason Thompson,Mathematics,Freshman
+S1949,Katrina Lee,Mathematics,Senior
+S1950,Donna Smith,Mathematics,Senior
+S1951,Heather Hodges,Engineering,Freshman
+S1952,Dawn Kelly,Engineering,Freshman
+S1953,Julie Weber,Engineering,Freshman
+S1954,Philip Stewart,Business,Sophomore
+S1955,Mary Griffin,Business,Junior
+S1956,Julie Howell,Biology,Sophomore
+S1957,Kimberly Jones,Engineering,Sophomore
+S1958,Kelly Davis,Engineering,Sophomore
+S1959,Jacob Miller,Biology,Sophomore
+S1960,Lindsay Clarke,Biology,Freshman
+S1961,Jacqueline Williams,Business,Freshman
+S1962,Clarence Mccarthy,Mathematics,Senior
+S1963,Thomas Smith,Computer Science,Senior
+S1964,Jodi Martinez,Biology,Junior
+S1965,Kayla Pineda,Engineering,Senior
+S1966,Marc Miller,Business,Freshman
+S1967,David Ross,Computer Science,Sophomore
+S1968,Wendy Burke,Engineering,Freshman
+S1969,Sean Rivera,Engineering,Freshman
+S1970,Jesse Mitchell,Biology,Freshman
+S1971,Dale Hansen,Computer Science,Senior
+S1972,Hannah Nguyen,Engineering,Senior
+S1973,Vincent Hughes,Business,Freshman
+S1974,Erin Green,Mathematics,Freshman
+S1975,Felicia Leonard,Mathematics,Sophomore
+S1976,Robin Wagner,Business,Junior
+S1977,Meghan Mcgee,Engineering,Senior
+S1978,Jennifer Thompson,Mathematics,Senior
+S1979,John Pena,Mathematics,Junior
+S1980,Timothy Cooper,Mathematics,Junior
+S1981,Fred Estrada,Biology,Junior
+S1982,Jeffery Drake,Biology,Freshman
+S1983,Sara Thomas,Biology,Junior
+S1984,Edward Ayala,Computer Science,Senior
+S1985,Scott Ferguson,Biology,Junior
+S1986,Adam White,Biology,Junior
+S1987,Alexa Williams,Business,Junior
+S1988,Tiffany Walker,Business,Junior
+S1989,Lauren Johnson,Mathematics,Junior
+S1990,Sherry Schmidt,Engineering,Freshman
+S1991,Tabitha Green,Mathematics,Senior
+S1992,Kevin Cooper,Engineering,Junior
+S1993,Jose Stevens,Engineering,Junior
+S1994,Teresa Martin,Computer Science,Junior
+S1995,Russell Brown,Mathematics,Senior
+S1996,Sandra Murphy,Mathematics,Freshman
+S1997,Stanley Pugh,Business,Junior
+S1998,Richard Hines,Business,Sophomore
+S1999,Chase Harrington,Computer Science,Junior
