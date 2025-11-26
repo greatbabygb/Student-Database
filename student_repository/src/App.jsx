@@ -1,4 +1,3 @@
-import React from "react";
 /*
 Student Database Management System - Single-file React App
 Place the generated CSVs (students.csv, courses.csv, grades.csv, attendance.csv)
