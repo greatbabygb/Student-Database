@@ -92,10 +92,10 @@ export default function App() {
     async function loadAll() {
       setLoading(true);
       const [s, c, g, a] = await Promise.all([
-        parseCSV("/data/students.csv"),
-        parseCSV("/data/courses.csv"),
-        parseCSV("/data/grades.csv"),
-        parseCSV("/data/attendance.csv"),
+        parseCSV("/students.csv"),
+        parseCSV("/courses.csv"),
+        parseCSV("/grades.csv"),
+        parseCSV("/attendance.csv"),
       ]);
       setStudents(
         s.map((r) => ({
